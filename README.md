@@ -16,6 +16,4 @@
 - Class merging with tailwind-merge
 - Conditional classes with clsx
 - Variants with class-variance-authority
-# PulseChat--Realtime-Chat-App
-# PulseChat--Realtime-Chat-App
-# PulseChat--Realtime-Chat-App
+
